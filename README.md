@@ -22,7 +22,7 @@ Calidad del código (proyectos42u) (Code quality): [![CodeFactor](https://www.co
 
 ## ✅ Special Thanks
 All the MinilibX documentation and help (made by **[@harm-smits](https://github.com/harm-smits)**, a 42 Network student): https://github.com/harm-smits/42docs                     
-minilibx for Linux (made by **[@42Paris](https://github.com/42Paris)** and actively contributed by the 42 Network students): https://github.com/42Paris/minilibx-linux
+minilibx for Linux (made by **[@42Paris](https://github.com/42Paris)** and actively contributed by the 42 Network students): https://github.com/42Paris/minilibx-linux                                                                 
 key_linux header file making the keyboard to work (made by **[@ilkou](https://github.com/ilkou/)**, a 42 Network student): https://github.com/ilkou/minilibx/blob/master/key_linux.h
 
 -------
