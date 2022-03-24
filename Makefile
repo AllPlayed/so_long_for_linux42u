@@ -10,7 +10,6 @@
 #                                                                              #
 # **************************************************************************** #
 
-# Main Makefile flags and names
 NAME = so_long
 CSRC =	sl_main.c \
 sl_window.c \
@@ -36,8 +35,6 @@ $.o: %.c
 	cp libft/libft.a .
 	@$(GCCCMD) -I/usr/include/ -Imlx_linux -O3 -c $< -o $@
 
-#$(NAME): $(OSRC)
-#	$(GCCCMD) libft.a -Imlx -Iso_long.h -Lmlx -lmlx -framework OpenGL -framework AppKit $^ -o $@
 $(NAME): $(OSRC)
 	@echo "\033[33mCompiling libft and minilibx libraries...\033[0m"
 	@make -C libft
